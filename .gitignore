@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# System file
+.DS_Store
+
 # IntelliJ IDEA files
 .idea
 *.iml
