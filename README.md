@@ -6,4 +6,9 @@ Lo scopo di questo repository consiste nel comprendere il come ed il perchè det
 
 Il repository segue il libro:
 
-- Head First, Design Patterns 
+- Head First Design Patterns, O'Reilly, Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
+
+## Design Patterns analizzati
+
+1. [Strategy Pattern](1-StrategyPattern/README.md)
+1. [Observer Pattern](2-ObserverPattern/README.md)

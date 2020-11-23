@@ -3,6 +3,7 @@ public abstract class Personaggio {
     protected TipologiaDifesa tipologiaDifesa;
 
     public abstract void visualizza();
+    
     public void movimento() {
         System.out.println("Mi sto muovendo!");
     }

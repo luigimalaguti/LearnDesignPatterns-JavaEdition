@@ -1,5 +1,5 @@
-public class Main {
-    public static void main(String[] args){
+public class Gioco {
+    public static void main(String[] args) {
         Rubber rubber = new Rubber();
         AnakinSkywalker anakin = new AnakinSkywalker();
 
