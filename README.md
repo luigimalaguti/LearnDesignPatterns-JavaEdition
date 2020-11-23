@@ -1,4 +1,4 @@
-# Play With Design Patterns - Java Edition
+# Learn Design Patterns - Java Edition
 
 Questo repository contiene una raccolta di Design Patterns analizzati nel linguaggio Java.
 
